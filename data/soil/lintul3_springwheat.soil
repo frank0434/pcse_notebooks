@@ -6,3 +6,4 @@ WCWET  = 0.45
 WCST   = 0.50
 DRATE  = 30.  			# Maximum drainage rate of the soil (mm/day) 
 RNMIN = 0.01            # Daily soil N mineralizatio nrate (g N/m2/day)
+ROOTDI = 0.10
